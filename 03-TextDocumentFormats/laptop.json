@@ -1,0 +1,10 @@
+{
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"],
+    "processor": "Intel i9",
+    "RAM": "32GB",
+    "Memory capacity": "2 TB"
+}

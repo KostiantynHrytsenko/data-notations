@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="car" mode="land">
+        <name>Toyota Corolla</name>
+        <color>white</color>
+        <fuel>gasoline</fuel>
+        <capacity seats="5">4 passengers + driver</capacity>
+    </vehicle>
+    
+    <vehicle type="bike" mode="land">
+        <name>Mountain Bike</name>
+        <color>red</color>
+        <fuel>human-powered</fuel>
+        <capacity seats="1">1 rider</capacity>
+    </vehicle>
+    
+    <vehicle type="airplane" mode="air">
+        <name>Boeing 737</name>
+        <color>white</color>
+        <fuel>jet fuel</fuel>
+        <capacity seats="200">200 passengers</capacity>
+    </vehicle>
+</transport>

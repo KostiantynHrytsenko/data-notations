@@ -53,5 +53,16 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Chanel",
+        "founded": 1909,
+        "headquarters": "Paris, France",
+        "employees": 36000,
+        "products": [
+            "Makeup",
+            "Watches",
+            "Accessories"
+        ]
     }
 ]
