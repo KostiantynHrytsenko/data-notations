@@ -1,0 +1,25 @@
+{
+    "ticket_id": "TCKT-20251016-84A3",
+    "passenger": {
+      "first_name": "Ava",
+      "last_name": "Rossi",
+      "age": 34
+    },
+    "train_number": "IC 231",
+    "departure": {
+      "station": "Central Station",
+      "code": "CEN",
+      "datetime": "2025-10-20T09:15:00+01:00",
+      "platform": 5
+    },
+    "seat": {
+      "coach": "B",
+      "seat_number": "12A",
+      "class": "first"
+    },
+    "price": {
+      "amount": 45.5,
+      "currency": "EUR"
+    }
+  }
+  
